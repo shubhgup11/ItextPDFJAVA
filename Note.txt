@@ -1,0 +1,1 @@
+Refer to Tutorialspoint for reference to add other elements like table, image, bullet points to the pdf
